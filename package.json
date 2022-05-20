@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "eslint": "^8.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JETT-xyz/JETT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JETT-xyz/JETT/issues"
+  },
+  "homepage": "https://github.com/JETT-xyz/JETT#readme"
 }
