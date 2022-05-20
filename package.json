@@ -1,0 +1,22 @@
+{
+  "name": "jett",
+  "version": "1.0.0",
+  "description": "jett-bot.xyz",
+  "main": "jett.js",
+  "scripts": {
+    "start": "node jett.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DISCORD-BOT"
+  ],
+  "author": "JETT Services",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
